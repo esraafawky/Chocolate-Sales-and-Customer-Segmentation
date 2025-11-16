@@ -11,6 +11,7 @@ Chocolate_Project/
 ├── README.md                    # Project documentation 
 ├── EDA.ipynb                    # Exploratory Data Analysis notebook
 ├── Segmentation.ipynb           # Customer Segmentation & Analysis notebook
+├── Chocolate_Sales.pbix         # Overview Dashboard 
 ├── purchase data.csv            # Raw purchase transaction data 
 ├── segmentation data.csv        # Customer demographic data 
 └── merged_dataset.csv           # Final merged dataset with customer segments 

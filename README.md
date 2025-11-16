@@ -65,5 +65,4 @@ Applies machine learning techniques for customer segmentation:
 - Demographics comparison across segments
 - Brand preference by segment
 - Purchase behavior analysis
-- Revenue contribution by segment and brand
-"# Chocolate-Sales-and-Customer-Segmentation-" 
+- Revenue contribution by segment and brand 
